@@ -718,3 +718,19 @@ a {
 .cid-sGhqAAkIsb img {
   width: 100%;
 }
+.cid-sGhIh739Ji {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sGhIh739Ji .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sGhIh739Ji .row {
+  flex-direction: row-reverse;
+}
+.cid-sGhIh739Ji img {
+  width: 100%;
+}
