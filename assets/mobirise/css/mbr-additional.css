@@ -734,3 +734,19 @@ a {
 .cid-sGhIh739Ji img {
   width: 100%;
 }
+.cid-sGjWPSoVug {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sGjWPSoVug .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sGjWPSoVug .row {
+  flex-direction: row-reverse;
+}
+.cid-sGjWPSoVug img {
+  width: 100%;
+}
