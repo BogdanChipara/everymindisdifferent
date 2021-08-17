@@ -40,7 +40,7 @@
       }
     ],
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/depression-00085-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -50,7 +50,8 @@
     "publishChangesOnly": true,
     "uniqCompNum": 6,
     "versionPublish": "5.4.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "mbrsiteDomain": "gk41zgrt9k"
   },
   "pages": {
     "index.html": {
