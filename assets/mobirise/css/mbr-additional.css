@@ -782,14 +782,19 @@ a {
 .cid-sGkO4ZBWb9 img {
   width: 100%;
 }
-.cid-sGwv0QDvl8 {
+.cid-sGwzYSDFjs {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-sGwv0QDvl8 .mbr-text {
+.cid-sGwzYSDFjs blockquote {
+  border-color: #ffffff;
+  border-radius: 4px;
+  background-color: #fafafa;
+}
+.cid-sGwzYSDFjs .mbr-text {
   text-align: center;
 }
-.cid-sGwv0QDvl8 .mbr-section-subtitle {
+.cid-sGwzYSDFjs .mbr-section-title {
   text-align: center;
 }
