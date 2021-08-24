@@ -814,3 +814,19 @@ a {
 .cid-sGKbkcYYGL img {
   width: 100%;
 }
+.cid-sH2x1m1Bbp {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sH2x1m1Bbp .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sH2x1m1Bbp .row {
+  flex-direction: row-reverse;
+}
+.cid-sH2x1m1Bbp img {
+  width: 100%;
+}
