@@ -750,6 +750,22 @@ a {
 .cid-sGjWPSoVug img {
   width: 100%;
 }
+.cid-sHeyy5lx1g {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sHeyy5lx1g .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sHeyy5lx1g .row {
+  flex-direction: row-reverse;
+}
+.cid-sHeyy5lx1g img {
+  width: 100%;
+}
 .cid-sGkMTf8oYC {
   padding-top: 6rem;
   padding-bottom: 5rem;
