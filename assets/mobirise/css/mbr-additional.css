@@ -846,3 +846,19 @@ a {
 .cid-sH2x1m1Bbp img {
   width: 100%;
 }
+.cid-sHoYXUH2jB {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sHoYXUH2jB .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sHoYXUH2jB .row {
+  flex-direction: row-reverse;
+}
+.cid-sHoYXUH2jB img {
+  width: 100%;
+}
