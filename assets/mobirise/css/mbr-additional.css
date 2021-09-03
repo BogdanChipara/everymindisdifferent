@@ -878,3 +878,19 @@ a {
 .cid-sHYiOrpP57 img {
   width: 100%;
 }
+.cid-sHYMjl3SK0 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sHYMjl3SK0 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sHYMjl3SK0 .row {
+  flex-direction: row-reverse;
+}
+.cid-sHYMjl3SK0 img {
+  width: 100%;
+}
