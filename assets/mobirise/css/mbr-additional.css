@@ -894,3 +894,19 @@ a {
 .cid-sHYMjl3SK0 img {
   width: 100%;
 }
+.cid-sIxJT8diK2 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sIxJT8diK2 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sIxJT8diK2 .row {
+  flex-direction: row-reverse;
+}
+.cid-sIxJT8diK2 img {
+  width: 100%;
+}
