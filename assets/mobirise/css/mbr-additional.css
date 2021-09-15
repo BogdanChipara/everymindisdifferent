@@ -910,3 +910,19 @@ a {
 .cid-sIxJT8diK2 img {
   width: 100%;
 }
+.cid-sJ5I5Q844f {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sJ5I5Q844f .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sJ5I5Q844f .row {
+  flex-direction: row-reverse;
+}
+.cid-sJ5I5Q844f img {
+  width: 100%;
+}
