@@ -766,6 +766,22 @@ a {
 .cid-sHeyy5lx1g img {
   width: 100%;
 }
+.cid-sKTEiu3eC9 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sKTEiu3eC9 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sKTEiu3eC9 .row {
+  flex-direction: row-reverse;
+}
+.cid-sKTEiu3eC9 img {
+  width: 100%;
+}
 .cid-sGkMTf8oYC {
   padding-top: 6rem;
   padding-bottom: 5rem;
