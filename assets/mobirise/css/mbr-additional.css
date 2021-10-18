@@ -1631,57 +1631,6 @@ a {
 .cid-sM9bYd2XKI .item-subtitle {
   text-align: center;
 }
-.cid-sM9i2U0WiE {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sM9i2U0WiE img,
-.cid-sM9i2U0WiE .item-img {
-  width: 100%;
-}
-.cid-sM9i2U0WiE .item:focus,
-.cid-sM9i2U0WiE span:focus {
-  outline: none;
-}
-.cid-sM9i2U0WiE .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-sM9i2U0WiE .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #ffffff;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-sM9i2U0WiE .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sM9i2U0WiE .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-sM9i2U0WiE .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-sM9i2U0WiE .mbr-section-title {
-  color: #232323;
-}
-.cid-sM9i2U0WiE .mbr-text,
-.cid-sM9i2U0WiE .mbr-section-btn {
-  text-align: left;
-}
-.cid-sM9i2U0WiE .item-title {
-  text-align: left;
-}
-.cid-sM9i2U0WiE .item-subtitle {
-  text-align: center;
-}
 .cid-sM9dl95tlp {
   padding-top: 0rem;
   padding-bottom: 0rem;
