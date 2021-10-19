@@ -1478,6 +1478,57 @@ a {
 .cid-sM90t2nybM .item-subtitle {
   text-align: center;
 }
+.cid-sMkEawvnep {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sMkEawvnep img,
+.cid-sMkEawvnep .item-img {
+  width: 100%;
+}
+.cid-sMkEawvnep .item:focus,
+.cid-sMkEawvnep span:focus {
+  outline: none;
+}
+.cid-sMkEawvnep .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sMkEawvnep .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sMkEawvnep .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sMkEawvnep .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sMkEawvnep .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sMkEawvnep .mbr-section-title {
+  color: #232323;
+}
+.cid-sMkEawvnep .mbr-text,
+.cid-sMkEawvnep .mbr-section-btn {
+  text-align: left;
+}
+.cid-sMkEawvnep .item-title {
+  text-align: left;
+}
+.cid-sMkEawvnep .item-subtitle {
+  text-align: center;
+}
 .cid-sM91EzZfxy {
   padding-top: 0rem;
   padding-bottom: 0rem;
