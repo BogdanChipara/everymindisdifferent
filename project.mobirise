@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-16_2117",
-    "currentPage": "page2.html",
+    "currentPage": "EMIDart.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -6597,7 +6597,7 @@
         }
       ]
     },
-    "page2.html": {
+    "EMIDart.html": {
       "settings": {
         "title": "Fine Prints",
         "order": 1
