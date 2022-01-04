@@ -1042,6 +1042,22 @@ a {
     text-align: center;
   }
 }
+.cid-sTvRX7bABq {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sTvRX7bABq .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sTvRX7bABq .row {
+  flex-direction: row-reverse;
+}
+.cid-sTvRX7bABq img {
+  width: 100%;
+}
 .cid-sS8YW8YCSJ {
   padding-top: 6rem;
   padding-bottom: 6rem;
