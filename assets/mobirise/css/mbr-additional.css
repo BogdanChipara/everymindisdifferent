@@ -7634,6 +7634,23 @@ a {
     left: -1rem;
   }
 }
+.cid-sVtOG2CLhy {
+  background-color: #ffffff;
+}
+@media (max-width: 768px) {
+  .cid-sVtOG2CLhy video {
+    width: 100% !important;
+  }
+}
+.cid-sVtOG2CLhy video {
+  margin: auto;
+  display: block;
+  width: 100% !important;
+}
+.cid-sVtOG2CLhy .mbr-text,
+.cid-sVtOG2CLhy .mbr-section-btn {
+  text-align: center;
+}
 .cid-sVtyTZqXfY {
   background-color: #ffffff;
 }
