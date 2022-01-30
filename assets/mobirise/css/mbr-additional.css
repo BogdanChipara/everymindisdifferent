@@ -1452,6 +1452,108 @@ a {
     padding: 2rem;
   }
 }
+.cid-sVXdtfAVfS {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sVXdtfAVfS img,
+.cid-sVXdtfAVfS .item-img {
+  width: 100%;
+}
+.cid-sVXdtfAVfS .item:focus,
+.cid-sVXdtfAVfS span:focus {
+  outline: none;
+}
+.cid-sVXdtfAVfS .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sVXdtfAVfS .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sVXdtfAVfS .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sVXdtfAVfS .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sVXdtfAVfS .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sVXdtfAVfS .mbr-section-title {
+  color: #232323;
+}
+.cid-sVXdtfAVfS .mbr-text,
+.cid-sVXdtfAVfS .mbr-section-btn {
+  text-align: left;
+}
+.cid-sVXdtfAVfS .item-title {
+  text-align: left;
+}
+.cid-sVXdtfAVfS .item-subtitle {
+  text-align: center;
+}
+.cid-sVXaXZhuvK {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sVXaXZhuvK img,
+.cid-sVXaXZhuvK .item-img {
+  width: 100%;
+}
+.cid-sVXaXZhuvK .item:focus,
+.cid-sVXaXZhuvK span:focus {
+  outline: none;
+}
+.cid-sVXaXZhuvK .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sVXaXZhuvK .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #ffffff;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sVXaXZhuvK .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sVXaXZhuvK .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sVXaXZhuvK .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sVXaXZhuvK .mbr-section-title {
+  color: #232323;
+}
+.cid-sVXaXZhuvK .mbr-text,
+.cid-sVXaXZhuvK .mbr-section-btn {
+  text-align: left;
+}
+.cid-sVXaXZhuvK .item-title {
+  text-align: left;
+}
+.cid-sVXaXZhuvK .item-subtitle {
+  text-align: center;
+}
 .cid-sVMBVbKsx3 {
   padding-top: 0rem;
   padding-bottom: 0rem;
