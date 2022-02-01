@@ -52,8 +52,9 @@
     "uniqCompNum": 202,
     "versionPublish": "5.4.0",
     "screenshot": "screenshot.png",
-    "mbrsiteDomain": "olk9qi4uxk",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "mbrsiteDomain": "avsfqyyxep",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-219106836-1\">\n</script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-219106836-1');\n</script>"
   },
   "pages": {
     "index.html": {
