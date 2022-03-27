@@ -1381,10 +1381,12 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ff8a8a"
             },
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#2299aa"
             }
           },
           "_name": "content4",
@@ -1427,6 +1429,9 @@
               ".text-wrapper": {
                 "padding": "2rem"
               }
+            },
+            ".mbr-text": {
+              "color": "#e43f3f"
             }
           },
           "_name": "image1",
