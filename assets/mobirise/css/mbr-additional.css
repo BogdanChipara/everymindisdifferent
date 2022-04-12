@@ -12413,22 +12413,37 @@ a {
     left: -1rem;
   }
 }
-.cid-t2NuS7dEp4 {
-  padding-top: 5rem;
+.cid-t2NS4aFsEN {
+  padding-top: 6rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-#custom-html-af {
-  /* Type valid CSS here */
+@media (max-width: 991px) {
+  .cid-t2NS4aFsEN .image-wrapper {
+    margin-bottom: 1rem;
+  }
 }
-#custom-html-af div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
+.cid-t2NS4aFsEN .row {
+  flex-direction: row-reverse;
 }
-#custom-html-af p {
-  font-size: 60px;
-  color: #777;
+.cid-t2NS4aFsEN img {
+  width: 100%;
+}
+.cid-t2O3wrZMFs {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 600px) {
+  .cid-t2O3wrZMFs .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t2O3wrZMFs .row {
+  flex-direction: row-reverse;
+}
+.cid-t2O3wrZMFs img {
+  width: 80%;
 }
 .cid-t1ZA6jXCtr .navbar-dropdown {
   position: relative !important;
