@@ -11722,6 +11722,22 @@ a {
 .cid-t1wGCXo3Mm .mbr-description {
   color: #b726ac;
 }
+.cid-t7f5Vfha0J {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-t7f5Vfha0J .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-t7f5Vfha0J .row {
+  flex-direction: row-reverse;
+}
+.cid-t7f5Vfha0J img {
+  width: 100%;
+}
 .cid-sMNZjfN9AB .navbar-dropdown {
   position: relative !important;
 }
